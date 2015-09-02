@@ -16,15 +16,7 @@ Welcome to Poppy Project's documentation!
     introduction.rst
     
         
-Quickstarts
-=======================================================
 
-
-.. toctree::
-    :titlesonly:
-    :maxdepth: 2
-
-    quickstarts.rst
 
 Pypot: documentation and tutorials
 =======================================================

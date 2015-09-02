@@ -12,6 +12,7 @@ pip install Pygments
 Pour convertir les ipython notebooks en rst:
 pip install ipython
 pip install nbconvert
+sudo apt-get install pandoc
 
 Create simlinks (ln -s /pth/to/folder link_name):
 pypot/doc -> doc_pypot
