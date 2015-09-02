@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
 Welcome to Poppy Project's documentation!
 =======================================================
+
 
 
 .. toctree::
@@ -14,7 +16,15 @@ Welcome to Poppy Project's documentation!
     introduction.rst
     
         
+Quickstarts
+=======================================================
 
+
+.. toctree::
+    :titlesonly:
+    :maxdepth: 2
+
+    quickstarts.rst
 
 Pypot: documentation and tutorials
 =======================================================
